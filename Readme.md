@@ -51,4 +51,4 @@ if(condição){
 [Documentação MDN if...else](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else)
 
 
-[!](https://i.gifer.com/origin/bb/bb3eecef24cc8d0074e9d67021a0aea6.gif)
+![](https://i.gifer.com/origin/bb/bb3eecef24cc8d0074e9d67021a0aea6.gif)
