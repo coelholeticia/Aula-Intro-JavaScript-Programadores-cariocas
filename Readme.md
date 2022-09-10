@@ -3,7 +3,8 @@ Olá eu Sou, Leticia Coelho Facilitadora dos programadores cariocas ✌️
 ### Nesta aula damos introdução a Js. 
 Praticamos alguns exercicios. 
 
-E aprendemos sobre variaveis Var e let, na primeira aula 
+E aprendemos sobre variaveis Var e let, na primeira aula.
+Console do navegador. 
 E na segunda aula sobre condições if e else. 
 
 O que são variáveis ?
