@@ -46,7 +46,7 @@ if(condição){
     \\ se a condição falsa for executada
 }
 ```
-[Leia o Artigo:](https://www.devmedia.com.br/javascript-estrutura-condicional-if/40611)
+[Leia o Artigo](https://www.devmedia.com.br/javascript-estrutura-condicional-if/40611)
 
 [Documentação MDN if...else](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else)
 
