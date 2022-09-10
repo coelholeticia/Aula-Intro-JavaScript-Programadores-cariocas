@@ -4,7 +4,9 @@ Olá eu Sou, Leticia Coelho Facilitadora dos programadores cariocas ✌️
 Praticamos alguns exercicios. 
 
 E aprendemos sobre variaveis Var e let, na primeira aula.
+
 Console do navegador. 
+
 E na segunda aula sobre condições if e else. 
 
 O que são variáveis ?
