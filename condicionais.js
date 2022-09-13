@@ -47,7 +47,33 @@ function previsaoRodagem(qntGasolina, quilometragem){
     console.log (qntGasolina / quilometragem);
 }
 
-previsaoRodagem(3000, 500);
+//previsaoRodagem(3000, 500);
+
+
+//calcular imc 
+
+function verificarIMC() {
+    let altura = prompt("qual a sua altura?");
+    let peso = prompt("qual o seu peso ?");
+
+    let imc =  peso / (altura * altura);
+
+    if (imc < 17) {
+      console.log("Muito abaixo do peso");
+    } else if (imc > 17 && imc <= 18.49){
+      console.log("Abaixo do peso");
+    } else if (imc >= 18.5 && imc <= 24.99){
+      console.log("Peso normal");
+    } else if (imc >= 25 && imc <= 29.99){
+      console.log("Acima do peso");
+    } else if (imc >= 30 && imc <= 34.99){
+      console.log("Obesidade I");
+    } else {
+      console.log("Obesidade II");
+    }
+  }
+
+  verificarIMC();
 
 
 
