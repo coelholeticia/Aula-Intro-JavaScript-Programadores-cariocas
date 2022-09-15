@@ -31,24 +31,6 @@ function verificarPermissoes (){
 
 //verificarPermissoes();
 
-// com retorno 
-
-function previsaoRodagem(qntGasolina, quilometragem){
- 
-    return  qntGasolina / quilometragem;
-}
-
-//console.log(previsaoRodagem(3000, 500));
-
-//sem retorno
-
-function previsaoRodagem(qntGasolina, quilometragem){
- 
-    console.log (qntGasolina / quilometragem);
-}
-
-//previsaoRodagem(3000, 500);
-
 
 //calcular imc 
 
